@@ -1,4 +1,4 @@
-baseURL = "https://https://tarrascarlapalabra.netlify.app"
+baseURL = "https://https://tarrascarlapalabra.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "dimension"
